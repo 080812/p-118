@@ -1,0 +1,39 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px ;
+}
+
+.heading_div{
+    background: yellow;
+    padding: 10px;
+    border-radius: 25px;
+    float: none;
+    box-shadow: 15px 15px 12px pink;
+    font-size: 22px;
+}
+
+.heading_div2{
+    font-size: 19px;
+}
+
+.copyrightfooter{
+    background-color: teal;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 360px;
+    position: fixed;
+    width: 100%;
+}
+
+canvas{
+    border: 8px solid aqua;
+    border-radius: 20px;
+    bottom:0;
+     box-shadow: 5px 5px 9px palevioletred;
+}
+
+body{
+    background-size: cover;
+    background-position:center ;
+}
